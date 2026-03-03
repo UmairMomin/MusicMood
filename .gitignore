@@ -1,0 +1,36 @@
+# Python cache/bytecode
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Environment and local secrets
+.env
+
+# Tool/cache directories
+.cache
+.pytest_cache/
+.mypy_cache/
+
+# OS/editor files
+.DS_Store
+.vscode/
+.idea/
+
+# Build/distribution artifacts
+build/
+dist/
+*.egg-info/
+
+# Streamlit local config/state
+.streamlit/
+
+# Large/local project artifacts
+*.csv
+spotify_songs.csv
+best_mood_model.pkl

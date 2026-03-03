@@ -1,0 +1,7 @@
+streamlit
+pandas
+numpy
+joblib
+spotipy
+python-dotenv
+scikit-learn
