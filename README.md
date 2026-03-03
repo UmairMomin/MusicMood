@@ -64,7 +64,7 @@ SPOTIPY_REDIRECT_URI=http://127.0.0.1:8888/callback
 ## Dataset Links
 
 - `spotify_songs.csv`: [Kaggle - 30000 Spotify Songs](https://www.kaggle.com/datasets/joebeachcapital/30000-spotify-songs)
-- `music_recommendation_database.csv`: host your generated file and place it in the project root as `music_recommendation_database.csv`
+- `music_recommendation_database.csv`: It is a generated dataset. Use a dataset you like from the web!
 
 ## Run the App
 
